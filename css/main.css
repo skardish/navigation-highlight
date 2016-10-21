@@ -12,6 +12,11 @@ body {
   margin: 0;
 }
 
+.heading {
+  background-color: #ffe500;
+  padding: 10px;
+}
+
 h1 {
   text-align: center;
   color: #b20953;
@@ -45,11 +50,22 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #b20953;
+  background-color: #cc1465;
 }
 
 h2 {
   font-size: 3rem;
   color: #b20953;
   font-family: "Sigmar One", sans-serif;
+}
+
+p {
+  font-size: 1.125rem;
+}
+
+footer {
+  font-size: 0.75rem;
+  text-align: center;
+  background-color: #ffe500;
+  padding: 10px;
 }
