@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font: normal 100%/1.5 sans-serif;
+  font: "Georgia" 100%/1.5 sans-serif;
 }
 
 *, *::before, *::after {
@@ -35,4 +35,9 @@ nav a {
   color: #fff;
   text-decoration: none;
   text-align: center;
+  border-radius: 4px;
+}
+
+nav a:hover {
+  background-color: #b20953;
 }
