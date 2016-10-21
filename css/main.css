@@ -8,12 +8,14 @@ html {
 }
 
 body {
-  background-color: #2f2d13;
+  background-color: ##ffe500;
   margin: 0;
 }
 
 h1 {
   text-align: center;
-  color: #ffe500;
+  color: #b20953;
   font-family: "Sigmar One", sans-serif;
+  margin: 0.3em;
+  font-size: 3rem;
 }
