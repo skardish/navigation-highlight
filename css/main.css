@@ -20,11 +20,17 @@ h1 {
   font-size: 3rem;
 }
 
+nav li {
+  display: inline-block;
+}
+
 nav ul {
   margin: 0;
   padding: 0 0 0.4em;
   list-style-type: none;
   text-decoration: none;
+  text-align: center;
+  font-size: 1.875rem;
 }
 
 nav a {
@@ -40,4 +46,10 @@ nav a {
 
 nav a:hover {
   background-color: #b20953;
+}
+
+h2 {
+  font-size: 3rem;
+  color: #b20953;
+  font-family: "Sigmar One", sans-serif;
 }
