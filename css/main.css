@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
-  font: "Georgia" 100%/1.5 sans-serif;
+  font-family: Georgia, sans-serif;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
