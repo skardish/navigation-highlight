@@ -24,7 +24,7 @@ body {
 
 .heading {
   background-color: #ffe500;
-  padding:  0 .2em .2em;
+  padding: 0 .2em .2em;
 }
 
 h1 {
@@ -65,7 +65,7 @@ nav a:hover {
 }
 
 .current {
-  background-color: #cc1465
+  background-color: #cc1465;
 }
 
 h2 {
