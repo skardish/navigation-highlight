@@ -59,6 +59,10 @@ nav a:hover {
   background-color: #cc1465;
 }
 
+.current {
+  background-color: #cc1465
+}
+
 h2 {
   font-size: 3rem;
   color: #b20953;
