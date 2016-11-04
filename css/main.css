@@ -31,9 +31,8 @@ h1 {
   text-align: center;
   color: #b20953;
   font-family: "Sigmar One", sans-serif;
-  margin: .3em;
+  margin: 0 0 .2em;
   font-size: 3rem;
-  padding: 0 0 .2em;
 }
 
 nav li {
@@ -42,11 +41,10 @@ nav li {
 
 nav ul {
   margin: 0;
-  padding: .4em;
+  padding: 0;
   list-style-type: none;
   text-decoration: none;
   text-align: center;
-  font-size: 1.125rem;
 }
 
 nav a {
